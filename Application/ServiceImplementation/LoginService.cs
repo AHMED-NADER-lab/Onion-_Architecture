@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Service.IRepositories;
-using Service.IServiceInterface;
+using Application.IRepositories;
+using Application.IServiceInterface;
+
 
 namespace Application.ServiceImplementation
 {

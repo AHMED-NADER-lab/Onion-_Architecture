@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Application.IRepositories;
+using Application.IServiceInterface;
 using Domain.Entity;
-using Service.IRepositories;
-using Service.IServiceInterface;
+
 
 namespace Application.ServiceImplementation
 {
